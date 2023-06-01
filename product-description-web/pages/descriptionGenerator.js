@@ -53,7 +53,7 @@ const DescriptionGenerator = () => {
   return (
     <div className='container'>
       <div className="logo">
-        <img src='assets/商品説明つくる君.svg' alt='Logo' />
+        <img src='assets/logo.svg' alt='Logo' />
       </div>
       <div className='input-container'>
         <span className='expla-title'>出品したい商品名をここに入力してください</span>

@@ -38,7 +38,7 @@ const DescriptionResult = () => {
     <div className='container'>
       <header>
         <div className="logo">
-          <img src='assets/商品説明つくる君.svg' alt='Logo' />
+          <img src='assets/logo.svg' alt='Logo' />
         </div>
       </header>
       <main>
